@@ -19,6 +19,18 @@ This project demonstrates strong SQL skills including **RANK(), LAG(), SUM OVER*
 
 ---
 
+## Business Problem
+
+Marketing teams often evaluate campaigns using surface-level metrics like revenue or clicks, which can hide declining performance trends or inefficient budget allocation.
+
+This analysis aims to uncover:
+- Which campaigns truly drive sustainable growth
+- Which channels are most efficient
+- Where performance is declining despite high revenue
+
+
+---
+
 ## Dataset Structure
 
 | Column | Description |
